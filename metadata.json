@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Emergency Triage Queue Simulator",
+  "description": "Full-stack hospital emergency triage queue simulator and data structures workbench with binary min-heaps, dynamic aging, live dispatch, and Monte Carlo simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
